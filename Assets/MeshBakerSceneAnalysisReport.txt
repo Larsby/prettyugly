@@ -1,0 +1,15 @@
+(Click me, if I am too big copy and paste me into a spreadsheet or text editor)
+		OBJECT NAME	LIGHTMAP INDEX	STATIC	OVERLAPPING SUBMESHES	OUT-OF-BOUNDS UVs	NUM MATS	MATERIAL	WARNINGS
+	Custom/SnowShader (121 verts): 
+		bg (121 verts)	-1	False	False	False	1	[bg_normal_shadow (UnityEngine.Material)] 	
+	Sprites/Default (8 verts): 
+		Ground (0 verts)	-1	False	False	False	1	[SpriteDeformerStandartMaterial (UnityEngine.Material)] 	
+		body (4 verts)	-1	False	False	False	1	[SpriteDeformerStandartMaterial (UnityEngine.Material)] 	
+		pusher_body_blob_with_spring (4 verts)	-1	False	False	False	1	[SpriteDeformerStandartMaterial (UnityEngine.Material)] 	
+	Sprites/SFSoftShadow (12 verts): 
+		pusher_body_top (4 verts)	-1	False	False	False	1	[SFShadowed (UnityEngine.Material)] 	
+		pusher_body_gell (4 verts)	-1	False	False	False	1	[SFShadowed (UnityEngine.Material)] 	
+		pusher_eyes (4 verts)	-1	False	False	False	1	[SFUnshadowed (UnityEngine.Material)] 	
+	Unlit/Color (79 verts): 
+		MeshCube (79 verts)	-1	False	False	False	1	[black (UnityEngine.Material)] 	
+		Messure (0 verts)	-1	False	False	False	1	[black (UnityEngine.Material)] 	
