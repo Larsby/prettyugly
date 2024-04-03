@@ -2,7 +2,7 @@
 The game PrettyUgly
 
 
-![image](promo.jpg)
+![image](promo.png)
 
          
 This game was made by Pastille AB a game studio somewhere between the year 2015 and early 2019. We are clowing down the company for good and did not want to split the IP between the companies that owned Pastille. 
